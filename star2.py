@@ -1,5 +1,2 @@
-print("*")
-print("**")
-print("***")
-print("****")
-print("*****")
+for n in range(1,6):
+    print('*'*n)
